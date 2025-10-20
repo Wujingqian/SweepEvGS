@@ -1,4 +1,4 @@
-## Official Repository for "SweepEvGS: Event-Based 3D Gaussian Splatting for Macro and Micro Radiance Field Rendering from a Single Sweep"
+# Official Repository for "SweepEvGS: Event-Based 3D Gaussian Splatting for Macro and Micro Radiance Field Rendering from a Single Sweep"
 
 <p align="center">
   <img src="assets/intro2.png" width="500">
