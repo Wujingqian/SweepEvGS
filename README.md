@@ -34,13 +34,11 @@ Key features:
 
 This repository currently contains:
 
+```text
 Code/
-
-├── point_cloud.ply # Trained 3D-GS radiance field point cloud for reproducibility
-
-├── Data/ # Example data: one blurry frame + corresponding event stream
-
-└── README # Description of the uploaded files
+├── point_cloud.ply   # Trained 3D-GS radiance field point cloud for reproducibility
+├── Data/             # Example data: one blurry frame + corresponding event stream
+└── README            # Description of the uploaded files
 
 The provided `point_cloud.ply` is a **trained 3D Gaussian Splatting checkpoint** from our paper, and the `Data` folder includes **sample input data** used for the reconstruction.  
 These resources allow you to reproduce the visualized results shown in the paper.
