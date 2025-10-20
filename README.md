@@ -74,7 +74,8 @@ If you find this repository useful, please consider giving a star ⭐ and citing
   year={2025},
   publisher={IEEE}
 }
-
+```
+```bibtex
 @inproceedings{wu2024ev,
   title={Ev-gs: Event-based gaussian splatting for efficient and accurate radiance field rendering},
   author={Wu, Jingqian and Zhu, Shuo and Wang, Chutian and Lam, Edmund Y},
@@ -83,3 +84,4 @@ If you find this repository useful, please consider giving a star ⭐ and citing
   year={2024},
   organization={IEEE}
 }
+```
