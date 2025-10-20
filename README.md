@@ -33,3 +33,40 @@ Key features:
 ## 📦 Repository Contents
 
 This repository currently contains:
+Code/
+├── point_cloud.ply # Trained 3D-GS radiance field point cloud for reproducibility
+├── Data/ # Example data: one blurry frame + corresponding event stream
+└── README # Description of the uploaded files
+
+The provided `point_cloud.ply` is a **trained 3D Gaussian Splatting checkpoint** from our paper, and the `Data` folder includes **sample input data** used for the reconstruction.  
+These resources allow you to reproduce the visualized results shown in the paper.
+
+---
+
+## 🚀 Coming Soon
+
+We are in the process of organizing the **full training and evaluation code** for public release.  
+The following modules will be made available soon:
+
+- 🔧 Data Loader for event and frame streams  
+- 🧩 Gaussian Splatting training and optimization pipeline  
+- 🌈 Macro/Micro scene configuration and calibration scripts  
+- 🧮 Evaluation tools for PSNR/SSIM/LPIPS  
+- 📸 Visualization and rendering utilities  
+
+> **Full code coming soon!**  
+> Stay tuned for the next update with the complete implementation and training instructions.
+
+---
+
+## 📄 Citation
+
+If you find this work useful in your research, please cite:
+
+@article{wu2025sweepevgs,
+  title={SweepEvGS: Event-Based 3D Gaussian Splatting for Macro and Micro Radiance Field Rendering from a Single Sweep},
+  author={Wu, Jingqian and Zhu, Shuo and Wang, Chutian and Shi, Boxin and Lam, Edmund Y},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2025},
+  publisher={IEEE}
+}
