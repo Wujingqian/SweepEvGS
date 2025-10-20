@@ -33,6 +33,7 @@ Key features:
 ## 📦 Repository Contents
 
 This repository currently contains:
+
 Code/
 
 ├── point_cloud.ply # Trained 3D-GS radiance field point cloud for reproducibility
