@@ -1,17 +1,17 @@
-# SweepEvGS: Event-Based 3D Gaussian Splatting for Macro and Micro Radiance Field Rendering from a Single Sweep
+## Official Repository for "SweepEvGS: Event-Based 3D Gaussian Splatting for Macro and Micro Radiance Field Rendering from a Single Sweep"
 
 <p align="center">
   <img src="assets/intro2.png" width="500">
 </p>
 
-**Official repository for our IEEE TCSVT 2025 paper:**
-
-> **"SweepEvGS: Event-Based 3D Gaussian Splatting for Macro and Micro Radiance Field Rendering from a Single Sweep"**  
+> **SweepEvGS: Event-Based 3D Gaussian Splatting for Macro and Micro Radiance Field Rendering from a Single Sweep**  
 > Jingqian Wu, Shuo Zhu, Chutian Wang, Boxin Shi, and Edmund Y. Lam  
-> *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025*  
+> *Accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025*  
 > [[Paper on IEEE Xplore]](https://ieeexplore.ieee.org/document/11053840)
 
 ---
+
+
 
 ## 🧠 Overview
 
