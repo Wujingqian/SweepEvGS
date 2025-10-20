@@ -61,12 +61,22 @@ The following modules will be made available soon:
 
 ## 📄 Citation
 
-If you find this work useful in your research, please cite:
+If you find this repository useful, please consider giving a star ⭐ and citing our paper 🦋:
 
+```bibtex
 @article{wu2025sweepevgs,
   title={SweepEvGS: Event-Based 3D Gaussian Splatting for Macro and Micro Radiance Field Rendering from a Single Sweep},
   author={Wu, Jingqian and Zhu, Shuo and Wang, Chutian and Shi, Boxin and Lam, Edmund Y},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
   year={2025},
   publisher={IEEE}
+}
+
+@inproceedings{wu2024ev,
+  title={Ev-gs: Event-based gaussian splatting for efficient and accurate radiance field rendering},
+  author={Wu, Jingqian and Zhu, Shuo and Wang, Chutian and Lam, Edmund Y},
+  booktitle={2024 IEEE 34th International Workshop on Machine Learning for Signal Processing (MLSP)},
+  pages={1--6},
+  year={2024},
+  organization={IEEE}
 }
