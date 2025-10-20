@@ -1,7 +1,7 @@
 # SweepEvGS: Event-Based 3D Gaussian Splatting for Macro and Micro Radiance Field Rendering from a Single Sweep
 
 <p align="center">
-  <img src="assets/intro2.png" width="700">
+  <img src="assets/intro2.png" width="500">
 </p>
 
 **Official repository for our IEEE TCSVT 2025 paper:**
@@ -25,7 +25,7 @@ Key features:
 - **Hardware-Integrated Setup**: compatible with event cameras and standard microscopes  
 
 <p align="center">
-  <img src="assets/pipline.png" width="750">
+  <img src="assets/pipeline.png" width="750">
 </p>
 
 ---
